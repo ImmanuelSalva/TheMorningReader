@@ -16,3 +16,6 @@ body {
     .main_header a:hover {
       color: white;
   }
+#container {
+  margin: 0px auto;
+}

@@ -19,3 +19,8 @@ body {
 #container {
   margin: 0px auto;
 }
+  #container .top-headline {
+    max-height: 200px;
+    max-width: 100%;
+    overflow: none;
+  }

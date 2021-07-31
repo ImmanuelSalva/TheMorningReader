@@ -16,6 +16,10 @@ body {
     .main_header a:hover {
       color: white;
   }
+  .navbar {
+    display: flex;
+    justify-items: center; 
+  }
 #container {
   margin: 0px auto;
 }

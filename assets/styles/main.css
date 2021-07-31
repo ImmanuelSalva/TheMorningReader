@@ -50,3 +50,14 @@ body {
   .post p {
     font-size: 25px !important;
   }
+.category-headline {
+    max-height: 200px;
+    max-width: 100%;
+    overflow: hidden;
+    display: flex;
+    color: black;
+    text-decoration: none;
+    padding: 0px 20px;
+    border-left: 1px solid gainsboro;
+    border-right: 1px solid gainsboro;
+}

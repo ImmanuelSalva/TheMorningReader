@@ -1,6 +1,6 @@
 body {
   margin: 0px;
-  font-family: Postoni,garamond,serif;
+  font-family: 'Newsreader', serif;
 }
 .main_header {
   background-color: black;
@@ -45,8 +45,8 @@ body {
   text-align: center;
 }
   .post h1 h2 h3 h4 h5 h6 {
-    font-size: 55px;
+    font-size: 55px !important;
   }
   .post span p {
-    font-size: 25px;
+    font-size: 25px !important;
   }

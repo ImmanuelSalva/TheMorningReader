@@ -21,7 +21,7 @@ body {
     justify-items: center; 
   }
 #container {
-  margin: 0px auto;
+  margin: 0px 20%;
 }
   #container .top-headline {
     max-height: 200px;

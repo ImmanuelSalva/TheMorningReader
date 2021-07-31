@@ -26,13 +26,16 @@ body {
   #container .top-headline {
     max-height: 200px;
     max-width: 100%;
-    overflow: none;
+    overflow: hidden;
     display: flex;
     color: black;
     text-decoration: none;
+    margin: 20px;
+    border-left: 1px solid gainsboro;
+    border-right: 1px solid gainsboro;
   }
-    #container .top-headline p {
-      margin-left: 5px;
+    #container .top-headline .excerpt {
+      margin-left: 10px;
     }
   #container .headline {
     color: black;

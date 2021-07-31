@@ -21,11 +21,20 @@ body {
     justify-items: center; 
   }
 #container {
-  margin: 0px 20%;
+  margin: 10px 20%;
 }
   #container .top-headline {
     max-height: 200px;
     max-width: 100%;
     overflow: none;
     display: flex;
+    color: black;
+    text-decoration: none;
+  }
+    #container .top-headline p {
+      margin-left: 5px;
+    }
+  #container .headline {
+    color: black;
+    text-decoration: none;
   }

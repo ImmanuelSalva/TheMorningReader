@@ -71,3 +71,8 @@ body {
   .category-headline .excerpt {
       margin-left: 10px;
   }
+.video-page {
+  background: #151414 !important;
+  font-family: 'Libre Franklin', sans-serif !important;
+  color: white !important;
+}

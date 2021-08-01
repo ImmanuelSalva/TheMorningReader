@@ -38,8 +38,15 @@ body {
       margin-left: 10px;
     }
   #container .headline {
+    display: inline-block;
+    width: 33.33%;
     color: black;
+    overflow: hidden;
+    height: 300px;
     text-decoration: none;
+  }
+  #container .headline h1 {
+    font-size: 20px;
   }
 .post {
   text-align: center;
